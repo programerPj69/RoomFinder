@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+## LIVE 
+- LINK https://roomgroom.vercel.app
+  
 ## Getting Started
 
 First, run the development server:
@@ -13,6 +15,9 @@ pnpm dev
 # or
 bun dev
 ```
+## Preview
+![Untitled design (1)](https://github.com/user-attachments/assets/90242de6-5c5d-4166-adaf-fad796627724)
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
